@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package jtest;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+/**
+ * @author rmiah04
+ *
+ */
+public class AdderTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
